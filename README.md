@@ -20,3 +20,10 @@ CREATE TABLE user (
         PRIMARY KEY (id)
       );
   ```
+里面的
+* .ini是配置文件,
+* main是运行主函数，
+* test是测试的代码，
+* CommonConnectionPool.h是别人写的连接池代码，
+* mySqlPool.h是我自己参考别人写的连接池代码,
+* Connect.h是封装mysql.h的连接类
