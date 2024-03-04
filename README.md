@@ -9,7 +9,7 @@
 
   我的项目里面的数据库名称是：chat，使用的数据表user，
   使用sql就可以创建好了
-  ```
+```
 CREATE DATABASE chat;
 use chat;
 CREATE TABLE user (
@@ -19,7 +19,7 @@ CREATE TABLE user (
         sex ENUM('male', 'female') NOT NULL,
         PRIMARY KEY (id)
       );
-  ```
+```
 里面的
 * .ini是配置文件,
 * main是运行主函数，
