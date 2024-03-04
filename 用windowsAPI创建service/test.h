@@ -1,5 +1,4 @@
 #include <iostream>
-
 #include "mySqlPool.h"
 #include "CommonConnectionPool.h"
 

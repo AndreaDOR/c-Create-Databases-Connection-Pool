@@ -1,5 +1,4 @@
- 
-#include "public.h"
+ #include "public.h"
 #include "Connect.h"
 #include <iostream>
 using namespace std;

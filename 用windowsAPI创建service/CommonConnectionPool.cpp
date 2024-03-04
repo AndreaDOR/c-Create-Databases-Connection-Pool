@@ -1,5 +1,3 @@
-
- 
 #include "CommonConnectionPool.h"
 #include "public.h"
 

@@ -1,5 +1,4 @@
 #include "mySqlPool.h"
-
 //获取线程池
 mySqlPool* mySqlPool::getMySqlPool()
 {
